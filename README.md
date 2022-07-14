@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Viraj-shivtarkar
-- 👀 I’m interested in Python, SQL
+- 👀 I’m interested in Excel,Python, SQL
 - 🌱 I’m currently learning Data analytics
+- 🔍 I'm currently looking for Data Analyst job
 - 📫 How to reach me..
 - linkedin: viraj-shivtarkar
 - Gmail: virajshiv14@gmail.com
